@@ -1,0 +1,10 @@
+11,2014/12/24 18:19,temp,24,artificial value change,user1,t_src_data,11,四舍五入
+11,2014/12/25 18:19,temp,25,artificial value change,user2,t_src_data,11,人工检测误差
+12,2014/12/25 18:19,temp,23,data clean,user3,t_src_data,"13,14",高质量
+13,2014/12/22 18:19,temp,21,artificial value change,user4,t_src_data,13,四舍五入
+14,2014/12/22 18:19,temp,20,artificial value change,user5,t_src_data,14,人工检测误差
+11,2014/12/24 18:19,pscal,24,artificial value change,user1,t_src_data,11,四舍五入
+11,2014/12/25 18:19,pscal,25,artificial value change,user2,t_src_data,11,人工检测误差
+12,2014/12/25 18:19,pscal,23,data clean,user3,t_src_data,"13,14",高质量
+13,2014/12/22 18:19,pscal,21,artificial value change,user4,t_src_data,13,四舍五入
+14,2014/12/22 18:19,pscal,20,artificial value change,user5,t_src_data,14,人工检测误差

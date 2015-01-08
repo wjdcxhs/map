@@ -1,0 +1,28 @@
+1,2014/12/24 18:19,temp,14.942,artificial value change,user1,t_src_data,1,四舍五入
+1,2014/12/25 18:19,temp,15.929,artificial value change,user2,t_src_data,1,人工检测误差
+2,2014/12/25 18:19,temp,13.686,data clean,user3,t_src_data,"3,4,5,6",高质量
+3,2014/12/22 18:19,temp,11.804,artificial value change,user4,t_src_data,3,四舍五入
+4,2014/12/22 18:19,temp,10.556,artificial value change,user5,t_src_data,4,人工检测误差
+1,2014/12/24 18:19,pscal,24.568,artificial value change,user1,t_src_data,1,四舍五入
+1,2014/12/25 18:19,pscal,25.026,artificial value change,user2,t_src_data,1,人工检测误差
+2,2014/12/25 18:19,pscal,23.301,data clean,user3,t_src_data,"3,4,5,6",高质量
+3,2014/12/22 18:19,pscal,21.283,artificial value change,user4,t_src_data,3,四舍五入
+4,2014/12/22 18:19,pscal,20.775,artificial value change,user5,t_src_data,4,人工检测误差
+1,2014/12/20 18:19,temp,10.77,create,user1,t_src_data,,信息采集
+2,2014/12/20 18:19,temp,11.913,create,user1,t_src_data,,信息采集
+3,2014/12/20 18:19,temp,12.681,create,user1,t_src_data,,信息采集
+4,2014/12/20 18:19,temp,13.009,create,user1,t_src_data,,信息采集
+1,2014/12/20 18:19,pscal,24.018,create,user1,t_src_data,,信息采集
+2,2014/12/20 18:19,pscal,25.579,create,user1,t_src_data,,信息采集
+3,2014/12/20 18:19,pscal,26.559,create,user1,t_src_data,,信息采集
+4,2014/12/20 18:19,pscal,27.516,create,user1,t_src_data,,信息采集
+10,2014/12/20 18:19,temp,20.809,clean,user1,t_src_data,"11,12,13,14",补空值
+11,2014/12/20 18:19,temp,21.12,create,user1,t_src_data,,信息采集
+12,2014/12/20 18:19,temp,22.03,create,user1,t_src_data,,信息采集
+13,2014/12/20 18:19,temp,19.328,create,user1,t_src_data,,信息采集
+14,2014/12/20 18:19,temp,20.758,create,user1,t_src_data,,信息采集
+10,2014/12/20 18:19,pscal,11.792,clean,user1,t_src_data,"11,12,13,14",补空值
+11,2014/12/20 18:19,pscal,10.055,create,user1,t_src_data,,信息采集
+12,2014/12/20 18:19,pscal,11.613,create,user1,t_src_data,,信息采集
+13,2014/12/20 18:19,pscal,12.366,create,user1,t_src_data,,信息采集
+14,2014/12/20 18:19,pscal,13.132,create,user1,t_src_data,,信息采集

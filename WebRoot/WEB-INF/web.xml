@@ -1,0 +1,35 @@
+<!DOCTYPE web-app PUBLIC
+        "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+        "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+    <servlet>
+        <servlet-name>RTreeServlet</servlet-name>
+        <servlet-class>com.neu.RTreeServlet</servlet-class>
+    </servlet>
+  <servlet>
+    <servlet-name>ShiXiQury</servlet-name>
+    <servlet-class>index.inverted.ShiXiQury</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ShiXiQuryData</servlet-name>
+    <servlet-class>index.inverted.ShiXiQuryData</servlet-class>
+  </servlet>
+
+
+    <servlet-mapping>
+        <servlet-name>RTreeServlet</servlet-name>
+        <url-pattern>/RTreeServlet</url-pattern>
+    </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ShiXiQury</servlet-name>
+    <url-pattern>/ShiXiQury</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ShiXiQuryData</servlet-name>
+    <url-pattern>/ShiXiQuryData</url-pattern>
+  </servlet-mapping>
+    <welcome-file-list>
+        <welcome-file>baiduMap.jsp</welcome-file>
+    </welcome-file-list>
+</web-app>
